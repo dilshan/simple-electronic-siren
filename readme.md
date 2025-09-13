@@ -19,5 +19,5 @@ A full assembly and test demonstration is available on [YouTube](https://youtu.b
 This project PCB was sponsored by **PCBWay**. You can order the PCB directly from PCBWay’s project sharing space.
 
 ## License
-This project is released under the **Creative Commons Attribution 4.0 International**.
+This project is released under the [**Creative Commons Attribution 4.0 International**](https://github.com/dilshan/simple-electronic-siren#CC-BY-4.0-1-ov-file).
 

@@ -1,5 +1,7 @@
 # Simple Transistor-Based Electronic Siren
 
+![Finished prototype build of the electronic siren](https://raw.githubusercontent.com/dilshan/simple-electronic-siren/refs/heads/main/resources/siren-prototype.png)
+
 This project provides a discrete transistor implementation of a multi-tone electronic siren, offering an easy-to-build and low-cost solution that replicates alarm effects found in classic two-timer NE556 siren circuits. It serves as a practical alternative to rare *UM3561* and *UM3562* sound generator ICs.
 
 The design uses only standard *BC548* / *BC558* transistors, resistors, and capacitors—making it easy to build with commonly available components.

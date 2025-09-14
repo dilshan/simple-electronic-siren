@@ -6,7 +6,7 @@ This project provides a discrete transistor implementation of a multi-tone elect
 
 The design uses only standard *BC548* / *BC558* transistors, resistors, and capacitors—making it easy to build with commonly available components.
 
-A full assembly and test demonstration is available on [YouTube](https://youtu.be/mPkqBXPQGk4). Full details of this project are available at blog post in here. 
+A full assembly and test demonstration is available on [YouTube](https://youtu.be/mPkqBXPQGk4). Full details of this project are available at [blog post in here](https://jayakody2000lk.blogspot.com/2025/09/a-simple-transistor-based-electronic.html). 
 
 ---
 

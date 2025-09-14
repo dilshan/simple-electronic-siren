@@ -16,7 +16,7 @@ A full assembly and test demonstration is available on [YouTube](https://youtu.b
 - All through-hole components for easy assembly
 
 ## PCB
-This project PCB was sponsored by **PCBWay**. You can order the PCB directly from PCBWay’s project sharing space.
+This project PCB was sponsored by **PCBWay**. You can [order the PCB directly from PCBWay’s project sharing space](https://www.pcbway.com/project/shareproject/W282856ASV37_electronic_siren_09_07_2025_0b272f0c.html).
 
 ## License
 This project is released under the [**Creative Commons Attribution 4.0 International**](https://github.com/dilshan/simple-electronic-siren#CC-BY-4.0-1-ov-file).
